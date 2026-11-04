@@ -9,7 +9,7 @@ My Neovim config, in a single `init.lua` with commented sections and an index at
 
 ## Showcase
 
-| Start screen | Code editing |
+| Dashboard | Editor |
 | --- | --- |
 | ![Dashboard](showcase/dashboard.png) | ![Editor](showcase/editor.png) |
 
