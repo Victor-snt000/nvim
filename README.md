@@ -9,8 +9,10 @@ My Neovim config, in a single `init.lua` with commented sections and an index at
 
 ## Showcase
 
-![dashboard](showcase/dashboard.png)
-![editor](showcase/editor.png)
+<p align="center">
+  <img src="showcase/dashboard.png" alt="dashboard" width="49%">
+  <img src="showcase/editor.png" alt="editor" width="49%">
+</p>
 
 ## What's in it
 
